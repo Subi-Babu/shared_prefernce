@@ -111,5 +111,4 @@ class _MyLoginPageState extends State<MyLoginPage> {
     );
   }
   
-  RaisedButton({required Color textColor, required MaterialColor color, required Null Function() onPressed, required Text child}) {}
 }
